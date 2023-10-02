@@ -1,2 +1,2 @@
-# Reseaux_Bt_scripts
+# Des scripts pour l'analyse spatiale des réseaux electriques basse tension 
 Ces scripts facilitent la manipulation de données spatiales et attributaires. Ils comprennent des fonctionnalités pour créer des entités spatiales à partir de données attributaires, générer des entités spatiales à partir d'autres entités existantes, et mettre à jour les attributs en utilisant des attributs déjà renseignées ou en se basant sur les géométries des entités spatiales.
